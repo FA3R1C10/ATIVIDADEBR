@@ -1,0 +1,16 @@
+# Ignorar ambiente virtual Python
+venv/
+.env/
+.env.bak
+.envrc
+.venv/
+
+# Ignorar arquivos compilados e caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de sistema
+.DS_Store
+*.swp
